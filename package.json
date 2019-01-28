@@ -1,6 +1,6 @@
 {
   "name": "chance-npm-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "npm publish test demo.",
   "main": "index.js",
   "bin": "index.js",
